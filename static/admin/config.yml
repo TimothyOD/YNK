@@ -1,0 +1,8 @@
+# In your static/admin/config.yml file
+
+backend:
+  name: github
+  repo: https://github.com/TimothyOD/YNK
+
+media_folder: static/assets
+public_folder: assets
