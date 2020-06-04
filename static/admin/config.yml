@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: https://github.com/TimothyOD/YNK
+  repo: TimothyOD/YNK
 
 media_folder: static/assets
 public_folder: assets
